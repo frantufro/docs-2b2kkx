@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-1o3118.kujang138bos.online/sitemap.xml
